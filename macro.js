@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      onlypuppy7
+// @namespace   https://greasyfork.org/users/1083183
 // ==/UserScript==
 
 if (location.pathname == "/login" && document.getElementById("driving-licence-number")) {
